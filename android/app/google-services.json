@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881587447178",
+    "project_id": "oak-flutter-project",
+    "storage_bucket": "oak-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881587447178:android:e5238574d52307e28c9473",
+        "android_client_info": {
+          "package_name": "com.example.oak_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881587447178-ej7008bb3o67r105v64m5d2duko8229s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALqWnjQVjmlJillMP136hzFmNwIF42d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881587447178-ej7008bb3o67r105v64m5d2duko8229s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
